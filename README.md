@@ -10,3 +10,5 @@ The input should be a list of 9 strings of length 9. Each entry
 represents a square on the board. Use 0 for blanks.
 
 See ***Sudoku's some example*** for some sudoku problems.
+
+love github
