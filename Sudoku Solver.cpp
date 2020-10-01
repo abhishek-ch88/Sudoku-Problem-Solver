@@ -10,6 +10,7 @@ bool square(int r ,int col ,int n);
 int matrix[9][9];
 int main()
 {
+        //variable use
         int gap = 0, r, col, t;
         bool x = 1;
         char c[20];
